@@ -1,0 +1,41 @@
+{
+  "categorization": {
+    "type": "APPLICATION",
+    "category": "Travel"
+  },
+  "description": {
+    "texts": {
+      "title": "Bim Holidays",
+      "features": [
+        "View Tour Packages"
+      ],
+      "short-description": "Asia's Largest chain tourism company",
+      "full-description": "Bim Holidays",
+      "keywords": "bim holidays,",
+      "recent-changes": "",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [],
+      "app-icon-small": "www/images/bim logo smll.png",
+      "app-icon": "www/images/bim logo big.png",
+      "small-promo": "package-assets/bim smll promo.jpg",
+      "large-promo": "package-assets/bim big promo.jpg"
+    },
+    "videos": {
+      "video-url": ""
+    }
+  },
+  "packages": {
+    "apk-file": "",
+    "zip-xdk-compliant": false,
+    "zip-file": "",
+    "secondary-apk-file": ""
+  },
+  "support": {
+    "email": "thehumanbot.p@gmail.com",
+    "website": "http://www.thehumanbot.cf"
+  },
+  "testing-instructions": ""
+}
